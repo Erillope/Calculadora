@@ -5,7 +5,7 @@ import sympy as sp
 import numpy as np
 
 def main():
-    '''exp1 = "x+y+z-t"
+    exp1 = "x+y+z-t"
     exp2 = "2*x + y**2 + z+t"
     exp3 = "x**2 + y**2 + z**2 + t**2"
     exp4 = 'x'
@@ -24,7 +24,7 @@ def main():
     b = np.array([2, 4])
     
     print(f(1,2,3,4))
-    print((f+f)(1,2,3,4))'''
+    print((f+f)(1,2,3,4))
     
     
 
